@@ -19,5 +19,5 @@ My qualifications are:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mgrabovac22&show_icons=true&theme=radical&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgrabovac22&layout=donut&hide_title=true&langs_count=7&theme=radical&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgrabovac22&layout=donut&hide_title=true&langs_count=7&theme=radical" />
 </a>
