@@ -15,5 +15,9 @@ My qualifications are:
 
 </section>
 
-![mgrabovac22's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgrabovac22&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgrabovac22&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mgrabovac22&show_icons=true&theme=radical&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgrabovac22&layout=donut&hide_title=true&langs_count=7&theme=radical&card_width=300" />
+</a>
