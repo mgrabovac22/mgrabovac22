@@ -1,16 +1,18 @@
-### Hi there 👋
+### My personal info and qualifications
 
-<!--
-**mgrabovac22/mgrabovac22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="justify">
 
-Here are some ideas to get you started:
+As a second-year student at the Faculty of Organization and Informatics, I'm fascinated by programming and everything it entails. The logic, problem-solving, and creativity involved captivate me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+My qualifications are:
+<section markdown="1" style="display: flex;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="50" height="50">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="50" height="50">
+
+</section>
