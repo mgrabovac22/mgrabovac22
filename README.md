@@ -9,7 +9,7 @@ As a second-year student at the Faculty of Organization and Informatics, I'm fas
 My qualifications are:
 <section markdown="1" style="display: flex;">
 
-  <a href="https://skillicons.dev">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,postgres,nodejs,c,cpp,cs,html,css,bootstrap,js,react,vite,figma" />
   </a>
 
