@@ -16,10 +16,10 @@ My qualifications are:
 </section>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=mgrabovac22&show_icons=true&theme=radical&hide_title=true&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgrabovac22&layout=compact&hide_title=true&langs_count=7&theme=radical" />
 </a>
 
