@@ -15,7 +15,6 @@ My qualifications are:
 
 </section>
 
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=mgrabovac22&show_icons=true&theme=radical&hide_title=true&rank_icon=github" />
 </a>
