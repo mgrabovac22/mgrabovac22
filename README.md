@@ -2,7 +2,7 @@
 
 <div align="justify">
 
-As a second-year student at the Faculty of Organization and Informatics, I'm fascinated by programming and everything it entails. The logic, problem-solving, and creativity involved captivate me.
+As a third-year student at the Faculty of Organization and Informatics, I'm fascinated by programming and everything it entails. The logic, problem-solving, and creativity involved captivate me.
 
 </div>
 
