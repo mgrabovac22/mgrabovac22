@@ -1,3 +1,6 @@
+<h1>Hi 👋, I'm Marin Grabovac</h1>
+<h3>Enthusiastic coder, driven by passion and unwavering dedication.</h3>
+
 ### My personal info and qualifications
 
 <div align="justify">
