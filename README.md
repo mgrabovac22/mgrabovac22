@@ -13,7 +13,7 @@ My qualifications are:
 <section markdown="1" style="display: flex;">
 
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,postgres,nodejs,c,cpp,cs,html,css,bootstrap,js,react,figma,kotlin,angular,swift,dotnet" />
+    <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,postgres,nodejs,c,cpp,cs,html,css,bootstrap,js,react,figma,kotlin,angular,swift,dotnet,typescript,sqlite,npm" />
   </a>
 
 </section>
