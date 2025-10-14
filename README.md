@@ -22,7 +22,7 @@ My qualifications are:
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=mgrabovac22&show_icons=true&theme=radical&hide_title=true&rank_icon=github" />
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgrabovac22&layout=compact&hide_title=true&langs_count=7&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgrabovac22&layout=compact&hide_title=true&langs_count=10&theme=radical" />
 </a>
 
 
