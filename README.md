@@ -18,13 +18,14 @@ My qualifications are:
 
 </section>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mgrabovac22&show_icons=true&theme=radical&hide_title=true&rank_icon=github" />
+<a href="https://github.com/mgrabovac22">
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mgrabovac22&layout=compact&theme=radical&langs_count=10" />
 </a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgrabovac22&layout=compact&hide_title=true&langs_count=10&theme=radical" />
+<a href="https://github.com/mgrabovac22">
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=mgrabovac22&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </a>
 
+### 🐍 My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgrabovac22/mgrabovac22/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgrabovac22/mgrabovac22/output/github-contribution-grid-snake.svg">
