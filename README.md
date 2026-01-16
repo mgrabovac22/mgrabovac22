@@ -25,7 +25,10 @@ My qualifications are:
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgrabovac22&layout=compact&hide_title=true&langs_count=10&theme=radical" />
 </a>
 
-### 🐍 My Contribution Snake
-![snake gif](https://raw.githubusercontent.com/mgrabovac22/mgrabovac22/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgrabovac22/mgrabovac22/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgrabovac22/mgrabovac22/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mgrabovac22/mgrabovac22/output/github-contribution-grid-snake.svg">
+</picture>
 
 
