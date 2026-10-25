@@ -5,7 +5,7 @@
 
 <div align="justify">
 
-As a forth-year student at the Faculty of Organization and Informatics, I'm fascinated by programming and everything it entails. The logic, problem-solving, and creativity involved captivate me.
+As a fifth-year student at the Faculty of Organization and Informatics, I'm fascinated by programming and everything it entails. The logic, problem-solving, and creativity involved captivate me. Current most exciting project is GitSwamp.
 
 </div>
 
