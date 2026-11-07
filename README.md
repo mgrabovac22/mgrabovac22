@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Marin Grabovac</h1>
 <h3>Enthusiastic coder, driven by passion and unwavering dedication.</h3>
-Get to know me: [Profile website](https://mgrabovac22.github.io/)
+Get to know me: 
+
+[Profile website](https://mgrabovac22.github.io/)
 
 ### My personal info and qualifications
 
